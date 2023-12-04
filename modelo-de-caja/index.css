@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: 0.5rem solid black;
+  margin: 1rem;
+}
+
+section {
+  display: grid;
+  place-items: center;
+
+  height: 10rem;
+  background: beige;
+  margin: 2rem;
+  padding: 1rem;
+  border: 1rem solid red;
+}

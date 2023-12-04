@@ -1,0 +1,14 @@
+/* Etiqueta */
+h1 {
+  color: red;
+}
+
+/* class */
+.title {
+  color: red;
+}
+
+/* ID */
+#title {
+  color: red;
+}
